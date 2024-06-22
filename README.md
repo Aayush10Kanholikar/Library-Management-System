@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Kanholikar</h1>
 <h3 align="left">This repository contains the code for a Library Management System built using Java and MySQL, developed in NetBeans. The system includes functionalities for managing books, members, and borrowing/returning books, providing a comprehensive solution for library management.</h3>
 
-<h4>The Library Management System is a desktop application designed to automate the management of a library. It provides features such as adding new books, registering members, borrowing and returning books, and more. The application is built using Java for the frontend and MySQL for the backend database, developed in the NetBeans IDE.</h4>
+<h5>The Library Management System is a desktop application designed to automate the management of a library. It provides features such as adding new books, registering members, borrowing and returning books, and more. The application is built using Java for the frontend and MySQL for the backend database, developed in the NetBeans IDE.</h5>
 
 - 📫 How to reach me **akanolikar@gmail.com**
 
